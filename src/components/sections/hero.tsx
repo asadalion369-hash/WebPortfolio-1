@@ -187,7 +187,7 @@ export function Hero() {
             <div className="glass-panel relative overflow-hidden rounded-[1.75rem] p-2">
               <div className="overflow-hidden rounded-[1.4rem] bg-black/20">
                 <img
-                  src={asadAsset.url}
+                  src="/_15e/assets-v1/db38a0e3-f31c-49f5-bf66-daa31ad12f59/asad.png"
                   alt="Asad Khan, AI Automation Engineer"
                   className="h-full w-full object-cover [mask-image:linear-gradient(to_bottom,black_85%,transparent)]"
                   loading="eager"
